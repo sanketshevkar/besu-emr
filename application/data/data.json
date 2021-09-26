@@ -1,0 +1,19 @@
+[
+    {
+        "hospialName": "Acme Health",
+        "contractAddress": "0x8a690557F5c9aF9289D013FDF0C4A83883f15985",
+        "patients": [
+            {
+                "name": "John Doe",
+                "contractAddress": "0xDf1B4D156154f40c2f92e5B26035984Bd60825c0"
+            }
+        ],
+        "doctors": [
+            {
+                "name": "Dr.Mark",
+                "contractAddress": "0xF023F12fa625Ff0D9f68Bd5917faE394B3052a7d"
+            }
+        ]
+
+    }
+]
